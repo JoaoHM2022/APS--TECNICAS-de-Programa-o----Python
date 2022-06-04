@@ -68,4 +68,3 @@ while flag == -1:
             arquivo.write(f'user: {login}\n senha: {passworld}')
             arquivo.close()
             break
-            
